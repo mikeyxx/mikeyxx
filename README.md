@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 👋 I'm Michael, a front-end developer based in Lagos, Nigeria.
+I'm very passionate about building beautiful and responsive user interfaces.
+I'm always learning and looking to collaborate on JavaScript and React projects.
+
+📫 Email me at: michaelogboo@gmail.com
 
 <!--
 **mikeyxx/mikeyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
