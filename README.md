@@ -1,6 +1,7 @@
 ### Hey there 👋 I'm Michael, a front-end developer based in Lagos, Nigeria.
 I'm very passionate about building beautiful and responsive user interfaces.
-I'm always learning and looking to collaborate on JavaScript and React projects.
+
+🤠 I’m a self-taught developer who enjoy the ongoing pursuit of knowledge and skills outside of the formal education system. I love collaborating with people from different background and experience in order to achieve organizational goals. Besides programming, I like traveling, gaming, hiking, and watching sport.
 
 📫 Email me at: michaelogboo@gmail.com
 
