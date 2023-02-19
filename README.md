@@ -1,7 +1,19 @@
-### Hey there 👋 I'm Michael, a front-end developer based in Lagos, Nigeria.
-I'm very passionate about building beautiful and responsive user interfaces.
+### Hey there 👋 I'm Mike, a Full stack Developer based in Lagos, Nigeria.
 
-🤠 I’m a self-taught developer who enjoy the ongoing pursuit of knowledge and skills outside of the formal education system. I love collaborating with people from different background and experience in order to achieve organizational goals. Besides programming, I like traveling, gaming, hiking, and watching sport.
+🤠 I am an experienced front-end developer with more than 2 years of experience. I specialize in building small and medium sized enterprise applications with focus on scalability, responsiveness, and amazing user experience using JavaScript, TypeScript and front-end frameworks like ReactJS. I have recently started learning and building back-end applications using MongoDB, Express and Nodejs. Please checkout my portfolio here: https://mikeysportfolio.netlify.app/
+
+❖ Languages – Typescript, Javascript
+❖ Frontend – ReactJs 
+❖ Backend – NodeJS, ExpressJS 
+❖ Prototyping Tools - Figma
+❖ Cloud Hosting - Vercel, Netlify
+❖ Version Control – Github
+❖ API / Testing Tools - Postman
+❖ CSS Styling - Styled components, Pure CSS, SaSS, PostCSS 
+❖ State Management – Redux, ContextAPI, React Query
+❖ Database – MongoDB, Firebase 
+❖ Frontend Utilities - Material UI, Tailwind, 
+❖ Others – Chrome Dev Tools, ES6.
 
 📫 Email me at: michaelogboo@gmail.com
 
