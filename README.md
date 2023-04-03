@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋 I'm Mike, a Full stack Developer based in Lagos, Nigeria.<br>🤠 I am an experienced front-end developer with more than 2 years of experience. I specialize in building small and medium sized enterprise applications with focus on scalability, responsiveness, and amazing user experience using JavaScript, TypeScript and front-end frameworks like ReactJS. I have recently started learning and building back-end applications using MongoDB, Express and Nodejs. Please checkout my portfolio here: https://mikeysportfolio.netlify.app/
+Hey there 👋 I'm Mike, a Full stack Developer based in Lagos, Nigeria.<br>🤠 I am a proficient front-end developer who specializes in creating responsive, and user-friendly applications using JavaScript, TypeScript, and front-end frameworks such as ReactJS. Recently, I have started building back-end applications using MongoDB, Express, and Nodejs. You can see some of my recent projects here: https://mikeysportfolio.netlify.app/
 
 
 ## 🌐 Socials:
