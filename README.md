@@ -2,11 +2,11 @@
 
 ### Full-stack Software Developer
 
--📍 I'm based in Lagos, Nigeria
--🧠 I'm currently learning NodeJS and .Net framework
--🤝 I'm open to collaborating on Open Source projects
--👨‍💻 I'm also open to internship and entry-level opportunities
--📩 You can email me on michaelogboo@gmail.com
+📍 I'm based in Lagos, Nigeria <br/>
+🧠 I'm currently learning NodeJS and .Net framework <br/>
+🤝 I'm open to collaborating on Open Source projects <br/>
+👨‍💻 I'm also open to internship and entry-level opportunities <br/>
+📩 You can email me on michaelogboo@gmail.com
 
 
 ## 🌐 Socials:
