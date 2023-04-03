@@ -2,7 +2,7 @@
 
 ### Full-stack Software Developer
 
-. 📍 I'm based in Lagos, Nigeria
+- 📍 I'm based in Lagos, Nigeria
 
 
 ## 🌐 Socials:
