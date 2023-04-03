@@ -1,4 +1,4 @@
-# 💫 Hello, I'm Mike👋 Thanks for visiting my profile!
+# Hello, I'm Mike👋 Thanks for visiting my profile!
 
 ### Full-stack Software Developer
 
