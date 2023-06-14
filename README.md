@@ -5,7 +5,7 @@
 📍 I'm based in Lagos, Nigeria <br/>
 🧠 I'm currently learning NodeJS and .Net framework <br/>
 🤝 I'm open to collaborating on Open Source projects <br/>
-👨‍💻 I'm also open to internship and entry-level opportunities <br/>
+👨‍💻 I'm also open to paid internship and entry-level opportunities <br/>
 📩 You can email me at michaelogboo@gmail.com
 
 
