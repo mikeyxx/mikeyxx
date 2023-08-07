@@ -3,9 +3,9 @@
 ### Full-stack Software Developer
 
 📍 I'm based in Lagos, Nigeria <br/>
-🧠 I'm currently learning NodeJS and .Net framework <br/>
+🧠 I work with JavaScript, TypeScript, React, NextJS, NodeJS, and ExpressJS <br/>
 🤝 I'm open to collaborating on Open Source projects <br/>
-👨‍💻 I'm also open to paid internship and entry-level opportunities <br/>
+👨‍💻 I'm also open to paid opportunities <br/>
 📩 You can email me at michaelogboo@gmail.com
 
 
